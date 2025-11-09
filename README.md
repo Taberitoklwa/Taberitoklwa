@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Tabero</h1>
+
+
 - 🔭 I’m currently studying at Universidad Autónoma de Madrid (UAM), pursuing a double degree in **Mathematics and Computer Engineering.**
 
 - 🌱 I’m currently learning **Networks, Linux, and defensive security**
