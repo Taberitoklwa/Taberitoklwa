@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m currently pursuing a **Double Degree in Mathematics and Computer Engineering** at **Universidad Autónoma de Madrid (UAM)**.
+🎓 I’m currently pursuing a Double Degree in Mathematics and Computer Engineering at Universidad Autónoma de Madrid (UAM), while expanding my academic experience through studies in Mathematics and Computer Science at the University of Sydney (USYD).
 
 💡 I enjoy building software, solving complex problems, and exploring how mathematical thinking can be applied to technology.
 
